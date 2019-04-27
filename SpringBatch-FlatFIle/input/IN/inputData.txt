@@ -1,5 +1,0 @@
-id,name,category
-1,Lenovo,Laptop
-2,Audi,Car
-3,Apple,Phone
-4,Reebok,Shoe
